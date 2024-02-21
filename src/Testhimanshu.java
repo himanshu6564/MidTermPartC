@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- *
+ *mid terms
  * @author himan
  */
 public class Testhimanshu {
