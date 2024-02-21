@@ -4,11 +4,9 @@
  */
 
 /**
- *mid term exam
+ *mid term
  * @author himan
  */
 public class himanshu {
     
 }
-
-
